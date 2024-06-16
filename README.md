@@ -10,12 +10,18 @@
 <p align="center" width="100%">
 
 ### 🌐 Socials: (clickable):
-  <a href="https://www.linkedin.com/in/nikdim03/">
-    <img height="50px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"></a> <a href="https://www.linkedin.com/in/nikdim03/">
-    <img height="50px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" title="Telegram"></a> <a href="https://t.me/nikdim_03">
-    <img height="50px" src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" title="Upwork"></a> <a href="https://www.upwork.com/freelancers/~01521cf2b3d424f459">
-    <img height="50px" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" title="Upwork"></a> <a href="https://stackoverflow.com/users/21656779/nikdim-03">
-  </a>
+<a href="https://www.linkedin.com/in/nikdim03/" target="_blank">
+  <img height="50px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn">
+</a>
+<a href="https://t.me/nikdim_03" target="_blank">
+  <img height="50px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" title="Telegram">
+</a>
+<a href="https://www.upwork.com/freelancers/~01521cf2b3d424f459" target="_blank">
+  <img height="50px" src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" title="UpWork">
+</a>
+<a href="https://stackoverflow.com/users/21656779/nikdim-03" target="_blank">
+  <img height="50px" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" title="Stack Overflow">
+</a>
 </p>
 <br>
 
