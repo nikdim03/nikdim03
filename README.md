@@ -46,5 +46,5 @@
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
 <br><br>
 
-### Github Profile Views
+### 👀 Github Profile Views
 <img src="https://profile-counter.glitch.me/nikdim03/count.svg" />
