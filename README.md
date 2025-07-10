@@ -1,7 +1,7 @@
 <p align="center">
   <br><br><br>
     <img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=E1E1E1&size=60&center=true&vCenter=true&width=800&height=150&lines=Hello,+my+name+is+Dmitrii;">
-    <img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=E1E1E1&size=60&center=true&vCenter=true&width=1000&height=150&lines=I+am+an+Android+Software+Engineer;">
+    <img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=E1E1E1&size=60&center=true&vCenter=true&width=1000&height=150&lines=I+am+an+Android+Developer;">
 </p>
 <br><br>
 
